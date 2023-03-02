@@ -18,9 +18,9 @@ Recall Score:
 # ![](Images/Smote.PNG)
 ### Undersampling
 * Cluster Centroids Undersampling
-** Accuracy Score: 
-** Precision Score:
-** Recall Score:
+  * Accuracy Score: 
+  * Precision Score:
+  * Recall Score:
 # ![](Images/Cluster_Centroids.PNG)
 ### Combination (Over/Under) Sampling
 * Smoteenn Combination Sampling
