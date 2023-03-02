@@ -10,13 +10,18 @@ The purpose of this analysis is well defined
 * Naive Random Oversampling
 # ![](Images/Naive.PNG)
 * SMOTE Oversampling
+# ![](Images/Smote.PNG)
 ### Undersampling
 * Cluster Centroids Undersampling
+# ![](Images/Cluster_Centroids.PNG)
 ### Combination (Over/Under) Sampling
 * Smoteenn Combination Sampling
+# ![](Images/Smoteenn.PNG)
 ### Ensemble Learners 
 * Balanced Random Forest Classifier
+# ![](Images/Balanced_Random_Forest_Classifier.PNG)
 * AdaBoost Classifier
+# ![](Images/AdaBoost.PNG)
 
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
