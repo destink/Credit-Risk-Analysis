@@ -6,6 +6,14 @@ Overview of the loan prediction risk analysis:
 
 The purpose of this analysis is well defined 
 ## Results:
+### Naive Random Oversampling
+### SMOTE Oversampling
+### Cluster Centroids Undersampling
+### Smoteenn Combination (Over/Under) Sampling
+### Ensemble Learners 
+* Balanced Random Forest Classifier
+* AdaBoost Classifier
+
 
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
 ## Summary:
