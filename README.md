@@ -6,10 +6,13 @@ Overview of the loan prediction risk analysis:
 
 The purpose of this analysis is well defined 
 ## Results:
-### Naive Random Oversampling
-### SMOTE Oversampling
-### Cluster Centroids Undersampling
-### Smoteenn Combination (Over/Under) Sampling
+### Oversampling
+* Naive Random Oversampling
+* SMOTE Oversampling
+### Undersampling
+* Cluster Centroids Undersampling
+### Combination (Over/Under) Sampling
+* Smoteenn Combination Sampling
 ### Ensemble Learners 
 * Balanced Random Forest Classifier
 * AdaBoost Classifier
