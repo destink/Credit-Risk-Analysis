@@ -19,7 +19,7 @@ The purpose of this analysis is well defined
 # ![](Images/Smoteenn.PNG)
 ### Ensemble Learners 
 * Balanced Random Forest Classifier
-# ![](Images/Balanced_Random_Forest_ Classifier.PNG)
+# ![](Images/Balanced_Random_Forest_Classifier.PNG)
 * AdaBoost Classifier
 # ![](Images/AdaBoost.PNG)
 
