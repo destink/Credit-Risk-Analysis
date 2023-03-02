@@ -8,6 +8,7 @@ The purpose of this analysis is well defined
 ## Results:
 ### Oversampling
 * Naive Random Oversampling
+# ![](Images/Naive.PNG)
 * SMOTE Oversampling
 ### Undersampling
 * Cluster Centroids Undersampling
