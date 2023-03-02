@@ -1,6 +1,5 @@
 # Credit_Risk_Analysis
 ## Analysis
-The written analysis has the following:
 
 Overview of the loan prediction risk analysis:
 
