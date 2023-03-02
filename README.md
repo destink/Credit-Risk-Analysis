@@ -7,9 +7,9 @@ The purpose of this analysis is well defined
 ## Results:
 ### Oversampling
 * Naive Random Oversampling
-  * Accuracy Score: 
-  * Precision Score:
-  * Recall Score:
+  * Accuracy Score: 0.646
+  * Precision Score: high_risk = 0.01, low_risk = 1.00, avg = 0.99
+  * Recall Score: high_risk = 0.71, low_risk = 0.58, avg = 0.58
 # ![](Images/Naive.PNG)
 * SMOTE Oversampling
   * Accuracy Score: 
