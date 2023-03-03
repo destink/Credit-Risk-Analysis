@@ -40,9 +40,5 @@ The purpose of this analysis is well defined
   * Recall Score: high_risk = 0.38, low_risk = 1.00, avg = 1.00
 # ![](Images/AdaBoost.PNG)
 
-
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
 ## Summary:
-
-There is a summary of the results 
-There is a recommendation on which model to use, or there is no recommendation with a justification 
+The model that displayed the highest levels of accuracy and precision is the ensemble learner, balanced random forest classifier model with 0.789 and an avg of 0.99, respectively. The accuracy of this model is what really sets it apart from the rest of the models. All the model’s precision scores were either at 0.99 or 1.00. The recall score for the balanced random forest classifier was also substantially higher than all the over/under/combo models by about 0.25. The only other model that had a higher recall was the other ensemble learner model, adaboost classifier which was at 1.00.
