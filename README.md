@@ -1,7 +1,6 @@
 # Credit_Risk_Analysis
 ## Analysis
-
-Overview of the loan prediction risk analysis:
+The purpose of this analysis is to determine which supervised machine learning model will be able to most accurately predict whether a person is high risk or low risk given the variables associate with that person’s financial profile.
 
 The purpose of this analysis is well defined 
 ## Results:
@@ -41,4 +40,4 @@ The purpose of this analysis is well defined
 # ![](Images/AdaBoost.PNG)
 
 ## Summary:
-The model that displayed the highest levels of accuracy and precision is the ensemble learner, balanced random forest classifier model with 0.789 and an avg of 0.99, respectively. The accuracy of this model is what really sets it apart from the rest of the models. All the model’s precision scores were either at 0.99 or 1.00. The recall score for the balanced random forest classifier was also substantially higher than all the over/under/combo models by about 0.25. The only other model that had a higher recall was the other ensemble learner model, adaboost classifier which was at 1.00.
+The model that displayed the highest levels of accuracy and precision is the ensemble learner, balanced random forest classifier model with 0.789 and an avg of 0.99, respectively for the entire population. The accuracy of this model is what really sets it apart from the rest of the models. However, the adaboost classifier provided the highest precision score by a huge margin of the high-risk population. Which is really the metric that a credit risk analysts would be concerned with. This model’s accuracy is acceptable compared to the other five models and although the recall score is only at 0.38, the proportion of which positive identifications was correct, the precision of 0.87, of high risk, is by far the most accurate at determining the proportion of positive identifications that were correct.  The only other model that had a higher recall for high risk of 0.01 was the other ensemble learner model, balanced random forest classifier at 0.03. In summary, for this analysis using the adaboost classifier model is the most reliable model with this data set. 
