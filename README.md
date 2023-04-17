@@ -1,4 +1,4 @@
-# Credit_Risk_Analysis
+# Credit-Risk-Analysis
 ## Analysis
 The purpose of this analysis is to determine which supervised machine learning model will be able to most accurately predict whether a person is high risk or low risk given the variables associate with that person’s financial profile.
 
